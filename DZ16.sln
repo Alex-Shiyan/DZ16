@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ16", "DZ16.csproj", "{3FA4601D-E467-43C1-9856-BE6EE955D151}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ16 Zadacha2", "..\DZ16 Zadacha2\DZ16 Zadacha2.csproj", "{9546C5B9-5CAE-4111-BEFB-783277CE034A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FA4601D-E467-43C1-9856-BE6EE955D151}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FA4601D-E467-43C1-9856-BE6EE955D151}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FA4601D-E467-43C1-9856-BE6EE955D151}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FA4601D-E467-43C1-9856-BE6EE955D151}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9546C5B9-5CAE-4111-BEFB-783277CE034A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9546C5B9-5CAE-4111-BEFB-783277CE034A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9546C5B9-5CAE-4111-BEFB-783277CE034A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9546C5B9-5CAE-4111-BEFB-783277CE034A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42D65D15-30B6-4A93-9D85-187E6CCD2AF2}
+	EndGlobalSection
+EndGlobal
